@@ -1,0 +1,51 @@
+student_id,gender,parental_education,study_hours,attendance_percentage,previous_score,internet_access,extracurricular,sleep_hours,final_score
+S001,Female,Bachelor,6.5,92,78,Yes,Yes,7.0,84
+S002,Male,High School,3.0,76,61,Yes,No,6.0,65
+S003,Female,Master,7.5,95,88,Yes,Yes,8.0,91
+S004,Male,Diploma,4.0,82,69,No,Yes,6.5,72
+S005,Female,Bachelor,5.5,88,74,Yes,No,7.5,80
+S006,Male,High School,2.5,68,55,No,No,5.5,58
+S007,Female,Master,8.0,97,90,Yes,Yes,7.0,94
+S008,Male,Diploma,4.5,80,66,Yes,No,6.0,70
+S009,Female,Bachelor,6.0,90,81,Yes,Yes,7.5,86
+S010,Male,High School,3.5,74,59,No,No,6.0,63
+S011,Female,Diploma,,85,72,Yes,Yes,7.0,77
+S012,Male,Bachelor,5.0,87,75,Yes,No,6.5,79
+S013,Female,Master,7.0,93,86,Yes,Yes,,89
+S014,Male,High School,2.0,65,52,No,No,5.0,55
+S015,Female,Bachelor,6.8,91,,Yes,Yes,7.0,85
+S016,Male,Diploma,4.2,79,67,Yes,No,6.0,71
+S017,Female,Master,8.5,98,92,Yes,Yes,8.0,96
+S018,Male,Bachelor,5.8,86,73,Yes,Yes,6.5,78
+S019,Female,High School,3.2,73,60,No,No,6.0,64
+S020,Male,Diploma,4.8,,70,Yes,Yes,7.0,75
+S021,Female,Bachelor,6.2,89,79,Yes,No,7.0,83
+S022,Male,High School,2.8,70,57,No,No,5.5,60
+S023,Female,Master,7.8,96,89,Yes,Yes,8.0,93
+S024,Male,Diploma,4.1,81,68,Yes,No,6.5,73
+S025,Female,Bachelor,5.7,88,76,Yes,Yes,7.5,82
+S026,Male,High School,3.1,72,58,No,No,5.8,62
+S027,Female,Master,8.2,97,91,Yes,Yes,7.5,95
+S028,Male,Bachelor,5.3,84,72,Yes,No,6.2,76
+S029,Female,Diploma,4.9,83,71,Yes,Yes,7.0,74
+S030,Male,High School,2.2,66,53,No,No,5.0,56
+S031,Female,Bachelor,6.6,92,80,Yes,Yes,7.2,87
+S032,Male,Diploma,4.4,78,65,Yes,No,6.1,69
+S033,Female,Master,7.3,94,87,Yes,Yes,7.8,90
+S034,Male,Bachelor,5.1,85,74,Yes,No,6.6,78
+S035,Female,High School,3.6,75,62,No,Yes,6.3,67
+S036,Male,Diploma,4.6,80,69,,No,6.4,72
+S037,Female,Bachelor,6.1,90,78,Yes,Yes,7.1,84
+S038,Male,High School,2.7,69,56,No,No,5.7,59
+S039,Female,Master,8.4,99,93,Yes,Yes,8.1,97
+S040,Male,Diploma,4.3,82,67,Yes,No,6.2,71
+S041,Female,Bachelor,5.9,87,77,Yes,Yes,7.3,82
+S042,Male,High School,3.3,71,59,No,No,5.9,61
+S043,Female,Master,7.6,95,88,Yes,Yes,7.9,92
+S044,Male,Bachelor,5.4,86,73,Yes,No,6.7,79
+S045,Female,Diploma,4.7,84,70,Yes,Yes,7.0,76
+S046,Male,High School,2.4,67,54,No,No,5.4,57
+S047,Female,Bachelor,6.4,91,81,Yes,Yes,7.4,86
+S048,Male,Diploma,4.0,79,66,Yes,No,6.0,70
+S049,Female,Master,8.1,98,90,Yes,Yes,8.0,94
+S050,Male,Bachelor,5.6,85,75,Yes,No,6.5,80
